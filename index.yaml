@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2022-04-19T19:23:01.460467+05:30"
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-19T19:59:08.607309+05:30"
+    description: A Helm chart for Kubernetes
+    digest: dde78545727b8620b69f459dae79451029ac41c8d82fd6ad42831f77fc3e64ae
+    name: my-app
+    type: application
+    urls:
+    - https://github.com/jeevanetta/helm-repo/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-19T19:59:08.605973+05:30"
